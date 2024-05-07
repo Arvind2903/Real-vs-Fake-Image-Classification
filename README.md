@@ -6,7 +6,8 @@ This project focuses on classifying images into two categories: "fake" and "real
 
 ## Dataset
 
-The dataset consists of images categorized into two classes: "fake" and "real". It is divided into training, validation, and test sets for model training, evaluation, and testing, respectively. It can be found here: https://drive.google.com/drive/folders/1wP2GR7yMYEtVNpJKfnTdLG7hQGsYjNz7?usp=sharing
+The dataset consists of images categorized into two classes: "fake" and "real". It is divided into training, validation, and test sets for model training, evaluation, and testing, respectively. 
+It can be found here: https://drive.google.com/drive/folders/1wP2GR7yMYEtVNpJKfnTdLG7hQGsYjNz7?usp=sharing
 
 ### Data Preprocessing
 
