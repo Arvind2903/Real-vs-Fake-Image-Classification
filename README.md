@@ -6,7 +6,7 @@ This project focuses on classifying images into two categories: "fake" and "real
 
 ## Dataset
 
-The dataset consists of images categorized into two classes: "fake" and "real". It is divided into training, validation, and test sets for model training, evaluation, and testing, respectively. 
+The dataset consists of images categorized into two classes: "fake" and "real". It is divided into training, validation, and test sets for model training, evaluation, and testing, respectively. It can be found here: https://drive.google.com/drive/folders/1wP2GR7yMYEtVNpJKfnTdLG7hQGsYjNz7?usp=sharing
 
 ### Data Preprocessing
 
@@ -25,6 +25,9 @@ The dataset consists of images categorized into two classes: "fake" and "real". 
 - The model is trained using the Adam optimizer with a learning rate of 0.001.
 - Class weights are computed to handle class imbalance in the training data.
 - Model training is monitored using early stopping based on validation loss to prevent overfitting.
+
+## Models
+The fitted models can be found here: https://drive.google.com/drive/folders/1G8RUO6axnWUnoVATIB30T3oV1k3XbkjW?usp=sharing
 
 ## Evaluation
 
